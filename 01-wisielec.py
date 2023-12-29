@@ -1,7 +1,7 @@
 import sys
 
 no_of_tries = 5
-word = "Warszawaaaa"
+word = "miasto"
 used_letters = []
 
 user_word = []
